@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # ... default apps ...
  'login', # Add your app here
+ 'Views'
 ]
 
 MIDDLEWARE = [
